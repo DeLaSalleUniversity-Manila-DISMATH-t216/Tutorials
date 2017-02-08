@@ -6,5 +6,6 @@
 - [DISMATH 101-4 Forming compound propositions with Conjunction and Disjunction](https://youtu.be/iiT5hjcX5B4)
 - [DISMATH 101-5 Undestanding an Implication]()
 - [DISMATH 101-6 Propositional Logic (Algebra analogy)](https://youtu.be/ljD3JqtqQzk)
-
-
+....
+## Whole playlist:
+- https://www.youtube.com/playlist?list=PL7__rWe0pMVfQzzXT9M5i4nYYgRp_XLu0 
